@@ -1,4 +1,4 @@
-#Currency Converter
+# Currency Converter
 
 Esta es una aplicacion de calculadora de divisas simple desarrollada en python utilizando POO.
 **Asignatura:** Desarrollo Web 1
@@ -17,9 +17,9 @@ Esta es una aplicacion de calculadora de divisas simple desarrollada en python u
 3. Configurar tu clave de API en `config.py`
 
 ## Uso
-Ejecuta `main.y` para iniciar la calculadora de divisas.
+Ejecuta `main.py` para iniciar la calculadora de divisas.
 
-## LIcencia
+## Licencia
 
 MIT Licence
 # practica-api
