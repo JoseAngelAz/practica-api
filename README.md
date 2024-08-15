@@ -4,7 +4,7 @@ Esta es una aplicacion de calculadora de divisas simple desarrollada en python u
 **Asignatura:** Lenguajes de Programacion.
 **TSU:** Servicios en la Nube.
 **Nombres:** Jose Angel.
-**Apellidos** Azucena Mendez.
+**Apellidos:** Azucena Mendez.
 
 ## Requisitos
 
