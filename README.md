@@ -1,10 +1,10 @@
 # Currency Converter
 
 Esta es una aplicacion de calculadora de divisas simple desarrollada en python utilizando POO.
-**Asignatura:** Desarrollo Web 1
-**TSU:** Servicios en la Nube
-**Nombres:** Jose Angel
-**Apellidos** Azucena Mendez
+**Asignatura:** Lenguajes de Programacion.
+**TSU:** Servicios en la Nube.
+**Nombres:** Jose Angel.
+**Apellidos** Azucena Mendez.
 
 ## Requisitos
 
