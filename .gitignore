@@ -1,2 +1,7 @@
-#Ignorar dependencias de:
-.conversor
+#Ignorar entorno virtual
+/.conversor/
+#ignorar dependencias de python
+Python
+__pycache__/
+*.pyc
+
