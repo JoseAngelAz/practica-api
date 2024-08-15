@@ -1,5 +1,5 @@
 #Ignorar entorno virtual
-/.conversor/
+.conversor/
 #ignorar dependencias de python
 Python
 __pycache__/
