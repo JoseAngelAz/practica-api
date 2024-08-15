@@ -4,7 +4,7 @@ import requests
 class CurrencyConverter:
     def __init__(self,api_key):
         self.api_key = api_key
-        self.url = f"https://v6.exchangenerate-api.com/v6/44e71fc0304a07d11017c04/latests/"
+        self.url = f"https://v6.exchangenerate-api.com/v6/{api_key}/latests/"
 
 #Definimos funcion para conseguir la conversion
 def get_exchange_rate(self,from_currency,to_currency):
