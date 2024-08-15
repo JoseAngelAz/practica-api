@@ -23,5 +23,3 @@ Ejecuta `main.py` para iniciar la calculadora de divisas.
 
 MIT Licence
 # practica-api
-# practica-api
-# practica-api
