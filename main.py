@@ -13,7 +13,7 @@ def main():
         if choice == '1':
             from_currency = input("Divisa de origen(por ejemplo, USD):").upper()
             to_currency = input("Divisa de destino (por ejemplo, EUR): ").upper()
-            amoutn = float(input(f"Cantidad en {from_currency}: "))
+            amount = float(input(f"Cantidad en {from_currency}: "))
             rate = converter.get_exchange_rate(from_currency, to_currency)
 
             if rate:
