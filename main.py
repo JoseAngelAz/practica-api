@@ -23,7 +23,14 @@ def main():
             print("Saliendo de la calculadora...")
             break
         else:
+<<<<<<< HEAD
             print("Opción no válida. Intenta de nuevo.")
 
 if __name__ == "__main__":
     main()
+=======
+            print("Opcion no valida. Intente de nuevo.")
+if __name__ == "__main__":
+    main()
+#ver esto en el github.
+>>>>>>> refs/remotes/origin/main
